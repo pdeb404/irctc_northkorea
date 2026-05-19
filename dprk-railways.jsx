@@ -1,3 +1,4 @@
+/* was just bored lol */
 import { useState, useEffect } from "react";
 
 const STATIONS = [
